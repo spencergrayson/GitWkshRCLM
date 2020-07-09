@@ -1,0 +1,2 @@
+# GitWkshRCLM
+The repo that will hold materials from the Github Workshop for the RCLM project. Workshop will be 15/07/2020.
